@@ -1,0 +1,11 @@
+{
+  "applications": {
+    "Ballot": {
+      "parseAppId": "yDam24Hg32LWVsZKzGxOGyopODUTFjK4HkiXeVrN",
+      "herokuAppId": "bd4dcce1-b6e1-49c1-b65a-6aa7656ac3ed"
+    },
+    "_default": {
+      "link": "Ballot"
+    }
+  }
+}
